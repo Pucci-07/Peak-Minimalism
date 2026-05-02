@@ -34,7 +34,7 @@ body::after {
     transform: translate(-50%, -50%); /* Centrage parfait du SVG */
     width: 256px;
     height: 256px;
-    background-image: url('/e7468967db96d6e2ffc996a844095925.svg');
+    background-image: url('e7468967db96d6e2ffc996a844095925.svg');
     background-repeat: no-repeat;
     opacity: 0.15; /* Très subtil, comme un filigrane */
     z-index: 5;
